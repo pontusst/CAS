@@ -1,1 +1,1 @@
-# CAS
+# Repository for courses taken at MPCAS 2024-2026
